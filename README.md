@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andis! <br/><a href="https://www.linkedin.com/in/andis-lejietis-5a800a135/">Junior QA Engineer</a></h1>
+<h1>Hi, I'm Andis! These are projects that I have worked on! <br/><a href="https://www.linkedin.com/in/andis-lejietis-5a800a135/">Junior QA Engineer</a></h1>
 
 <h2>Software Development Projects:</h2>
 
