@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Restaurant food delivery project</b>
-  - [Praciting testing checklists and final report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting testing checklists and final report](https://github.com/ALejietis96/RFD2-Checklist-and-Final-Report)
   - [Reported bugs during the sprint](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Company collaboration platform</b>
   - [Creating first Test casese based on project Use cases](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
