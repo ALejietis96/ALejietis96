@@ -12,7 +12,7 @@
   - [Exploratory checklists, Test cases( inc. - E2E, Corner ), Usability report](https://github.com/ALejietis96/INC2-BUG-Report)
   - [Reported bugs during bouth of the sprints](https://github.com/ALejietis96/INC2-BUG-Report)
   - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator)
-  - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-BUG-Report)
+  - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
 
 
 <h2> Find me : </h2>
