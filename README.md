@@ -3,13 +3,13 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Restaurant food delivery project</b>
-  - [Praciting testing checklists and final report](https://github.com/ALejietis96/RFD2-Checklist-and-Final-Report)
+  - [Project and Workflow overview - Praciting testing checklists and final report](https://github.com/ALejietis96/RFD2-Checklist-and-Final-Report)
   - [Reported bugs during the sprint](https://github.com/ALejietis96/RFD2-BUG-Report)
 - <b>Company collaboration platform</b>
-  - [Creating first Test cases based on project Use cases](https://github.com/ALejietis96/CCP2-Test-cases)
+  - [Project and Workflow overview - Creating first Test cases based on project Use cases](https://github.com/ALejietis96/CCP2-Test-cases)
   - [Reported bugs during the sprint](https://github.com/ALejietis96/CCP2-BUG-Report)
 - <b>Income Marketplace</b>
-  - [Exploratory checklists, Test cases( inc. - E2E, Corner ), Usability report](https://github.com/ALejietis96/INC2-BUG-Report)
+  - [Project and Workflow overview - Exploratory checklists, Test cases( inc. - E2E, Corner ), Usability report](https://github.com/ALejietis96/INC2-BUG-Report)
   - [Reported bugs during bouth of the sprints](https://github.com/ALejietis96/INC2-BUG-Report)
   - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator)
   - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
