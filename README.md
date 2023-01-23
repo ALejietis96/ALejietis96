@@ -11,7 +11,7 @@
 - <b>Income Marketplace</b>
   - [Project and Workflow overview - Exploratory checklists, Test cases( inc. - E2E, Corner ), Usability report](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report)
   - [Reported bugs during sprint #3 and #4](https://github.com/ALejietis96/INC2-BUG-Report)
-  - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b><i>NSFW for Experienced developers</b></i>
+  - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b><i>NSFW for anyone with experience in JavaScript</b></i>
   - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
 
 
