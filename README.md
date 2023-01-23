@@ -13,13 +13,6 @@
   - [Reported bugs during sprint #3 and #4](https://github.com/ALejietis96/INC2-BUG-Report)
   - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b><i>NSFW for anyone with experience in JavaScript</b></i>
   - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
-
-
-<h2> Find me : </h2>
-
-[<img align="left" alt="AndisLejietis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/andis-lejietis-5a800a135/
 <!---
 ALejietis96/ALejietis96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
