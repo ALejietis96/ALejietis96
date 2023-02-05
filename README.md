@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>CerebrumHub Internship results</b>
+- <b>Cerebrum Hub Internship results</b>
   - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
 - <b>Projects under self initiative</b>
   - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b><i>NSFW for anyone with experience in JavaScript</b></i>
