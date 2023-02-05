@@ -2,6 +2,10 @@
 
 <h2>Software Development Projects:</h2>
 
+- <b>CerebrumHub Internship results</b>
+  - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
+- <b>Projects under self initiative</b>
+  - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b><i>NSFW for anyone with experience in JavaScript</b></i>
 - <b>Restaurant food delivery project</b>
   - [Project and Workflow overview - Praciting testing checklists and final report](https://github.com/ALejietis96/RFD2-Checklist-and-Final-Report)
   - [Reported bugs during the sprint](https://github.com/ALejietis96/RFD2-BUG-Report)
@@ -11,9 +15,3 @@
 - <b>Income Marketplace</b>
   - [Project and Workflow overview - Exploratory checklists, Test cases( inc. - E2E, Corner ), Usability report](https://github.com/ALejietis96/INC2-Exploratory-checklists-Test-cases-inc.---E2E-Corner-Usability-report)
   - [Reported bugs during sprint #3 and #4](https://github.com/ALejietis96/INC2-BUG-Report)
-  - [Automated loan originator for Postman](https://github.com/ALejietis96/INC2-Automated-Loan-Originator) <b><i>NSFW for anyone with experience in JavaScript</b></i>
-  - [Team scoring and evaluation](https://github.com/ALejietis96/INC2-Team-scoring-and-evaluation)
-<!---
-ALejietis96/ALejietis96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
